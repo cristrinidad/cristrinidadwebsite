@@ -22,7 +22,7 @@ function SocialIcons() {
           />
         </a>
         <a
-          href="www.linkedin.com/in/cristobal-trinidad-545720137"
+          href="https://www.linkedin.com/in/cristobal-trinidad-545720137/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -33,7 +33,11 @@ function SocialIcons() {
             style={{ color: "#332941" }}
           />
         </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/cristrinidad"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <FontAwesomeIcon
             icon={faGithub}
             className="fa-github mx-3"

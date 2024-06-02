@@ -9,7 +9,7 @@ function UnisonGlobal() {
             <h5 className="blockqoute-footer">June 2022 - Current</h5>
           </div>
           <div>
-            <h5 className="blockqoute-footer">Dulles, VA</h5>
+            <h5 className="blockqoute-footer">Remote - Dulles, VA</h5>
           </div>
         </div>
         <ul className="list-unstyled mt-3">
