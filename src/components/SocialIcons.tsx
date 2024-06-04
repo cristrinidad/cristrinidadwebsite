@@ -16,7 +16,7 @@ function SocialIcons() {
         >
           <FontAwesomeIcon
             icon={faInstagram}
-            className="fa-instagram mx-3"
+            className="fa-instagram mx-3 scaled-image"
             size="2xl"
             style={{ color: "#332941" }}
           />
@@ -28,7 +28,7 @@ function SocialIcons() {
         >
           <FontAwesomeIcon
             icon={faLinkedin}
-            className="fa-linkedin mx-3"
+            className="fa-linkedin mx-3 scaled-image"
             size="2xl"
             style={{ color: "#332941" }}
           />
@@ -40,7 +40,7 @@ function SocialIcons() {
         >
           <FontAwesomeIcon
             icon={faGithub}
-            className="fa-github mx-3"
+            className="fa-github mx-3 scaled-image"
             size="2xl"
             style={{ color: "#332941" }}
           />
