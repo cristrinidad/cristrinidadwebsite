@@ -12,6 +12,7 @@ function App() {
         <section id="home">
           <NavBar />
           <Home />
+          <br />
         </section>
       </div>
 
