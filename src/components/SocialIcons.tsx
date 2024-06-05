@@ -22,7 +22,7 @@ function SocialIcons() {
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/cris-trinidad-545720137/"
+          href="https://www.linkedin.com/in/cris-trinidad-545720137"
           target="_blank"
           rel="noopener noreferrer"
         >
