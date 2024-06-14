@@ -24,6 +24,13 @@ function WelcomeImage() {
               alt="Me in my knitted sweater"
             ></img>
           </div>
+          <div className="carousel-item">
+            <img
+              src="/chocolate.jpg"
+              className="d-block w-100 rounded scaled-image"
+              alt="Making chocolates in Mexico"
+            ></img>
+          </div>
         </div>
 
         <button

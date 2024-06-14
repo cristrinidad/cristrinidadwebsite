@@ -10,6 +10,7 @@ function NavBar() {
             to="home"
             smooth={true}
             duration={0}
+            tabIndex={1}
           >
             Home
           </Link>
@@ -20,6 +21,7 @@ function NavBar() {
             to="latest-works"
             smooth={true}
             duration={0}
+            tabIndex={2}
           >
             Latest Works
           </Link>
@@ -30,6 +32,7 @@ function NavBar() {
             to="work-experience"
             smooth={true}
             duration={0}
+            tabIndex={3}
           >
             Work Experience
           </Link>
@@ -40,6 +43,7 @@ function NavBar() {
             to="contact"
             smooth={true}
             duration={0}
+            tabIndex={4}
           >
             Contact
           </Link>
