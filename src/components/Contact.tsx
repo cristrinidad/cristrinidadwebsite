@@ -9,7 +9,7 @@ function Contact() {
       <ContactInfo />
       <SocialIcons />
       <footer className="text-center mt-3">
-        &copy; Cristobal Trinidad 2024
+        &copy; Cristobal Trinidad 2025
       </footer>
       <br />
     </>

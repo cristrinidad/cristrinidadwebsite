@@ -1,15 +1,20 @@
-.container-fluid {
-    background-color: #FFD95A;
+/* Backgroud Color */
+.background {
+    background-color: #F1F0E9;
 }
 
 /* Style of Nav Buttons */
+.nav {
+  background-color:#E9762B;
+}
+
 .nav-link {
     text-decoration: none;
     position: relative;
   }
   
 .nav-link:hover {
-    color: #FFF7D4 !important;
+    color: #F1F0E9 !important;
   }
 
 .nav-link::after {
@@ -40,6 +45,6 @@
   }
 
 .footer {
-    background-color: #FFD95A;
+    background-color: #E9762B;
   }
 

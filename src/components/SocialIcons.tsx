@@ -22,7 +22,7 @@ function SocialIcons() {
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/cris-trinidad-545720137"
+          href="https://www.linkedin.com/in/cristobal-trinidad-545720137/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -45,6 +45,12 @@ function SocialIcons() {
             style={{ color: "#332941" }}
           />
         </a>
+      </div>
+      <div className="p-3 text-center">
+        <a href="/Cristobal_Trinidad_Resume.pdf" target="_blank">
+          <button type="button" className="btn btn-outline-dark" style={{ color: "#332941" }}>Resume</button>
+        </a>
+        
       </div>
     </>
   );

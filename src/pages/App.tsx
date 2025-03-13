@@ -8,7 +8,7 @@ import LatestWorks from "../components/LatestWorks";
 function App() {
   return (
     <>
-      <div className="container-fluid">
+      <div className="background">
         <section id="home">
           <NavBar />
           <Home />
