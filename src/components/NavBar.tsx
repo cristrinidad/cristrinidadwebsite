@@ -18,6 +18,17 @@ function NavBar() {
         <li className="nav-item mx-3 h5">
           <Link
             className="nav-link text-dark"
+            to="skills"
+            smooth={true}
+            duration={0}
+            tabIndex={2}
+          >
+            Skills
+          </Link>
+        </li>
+        <li className="nav-item mx-3 h5">
+          <Link
+            className="nav-link text-dark"
             to="latest-works"
             smooth={true}
             duration={0}

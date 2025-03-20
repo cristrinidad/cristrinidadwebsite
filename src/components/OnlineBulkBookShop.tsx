@@ -3,7 +3,7 @@ function OnlineBulkBookShop() {
     <>
       <div className="border border-dark border-5 rounded p-3">
         <h4 className="">Online Bulk Book Shop</h4>
-        <h4 className="">Udemy Course - May 2024</h4>
+        <h4 className="">May 2024</h4>
         <ul className="list-unstyled mt-3">
           <li className="list-item h5">
             &#8226; Created a e-commerce website with ASP.NET Core where

@@ -4,6 +4,7 @@ import "../stylesheets/App.css";
 import Contact from "../components/Contact";
 import WorkExperience from "../components/WorkExperience";
 import LatestWorks from "../components/LatestWorks";
+import Skills from "../components/Skills";
 
 function App() {
   return (
@@ -15,6 +16,10 @@ function App() {
           <br />
         </section>
       </div>
+
+      <section id="skills">
+        <Skills />
+      </section>
 
       <section id="latest-works">
         <LatestWorks />

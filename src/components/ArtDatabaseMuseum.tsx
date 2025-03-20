@@ -3,9 +3,7 @@ function ArtDatabaseMuseum() {
     <>
       <div className="border border-dark border-5 rounded p-3">
         <h4 className="">Art Database Museum</h4>
-        <h4 className="">
-          Created in Spring 2021
-        </h4>
+        <h4 className="">Spring 2021</h4>
         <ul className="list-unstyled mt-3">
           <li className="list-item h5">
             &#8226; Created a website that shows the art from MET Museum using SQLite, Flask, and React
