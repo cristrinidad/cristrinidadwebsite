@@ -6,7 +6,7 @@ function NavBar() {
       <ul className="nav justify-content-end">
         <li className="nav-item mx-3 h5">
           <Link
-            className="nav-link text-dark"
+            className="nav-link text-white"
             to="home"
             smooth={true}
             duration={0}
@@ -17,7 +17,7 @@ function NavBar() {
         </li>
         <li className="nav-item mx-3 h5">
           <Link
-            className="nav-link text-dark"
+            className="nav-link text-white"
             to="skills"
             smooth={true}
             duration={0}
@@ -28,7 +28,7 @@ function NavBar() {
         </li>
         <li className="nav-item mx-3 h5">
           <Link
-            className="nav-link text-dark"
+            className="nav-link text-white"
             to="latest-works"
             smooth={true}
             duration={0}
@@ -39,7 +39,7 @@ function NavBar() {
         </li>
         <li className="nav-item mx-3 h5">
           <Link
-            className="nav-link text-dark"
+            className="nav-link text-white"
             to="work-experience"
             smooth={true}
             duration={0}
@@ -50,7 +50,7 @@ function NavBar() {
         </li>
         <li className="nav-item mx-3 h5">
           <Link
-            className="nav-link text-dark"
+            className="nav-link text-white"
             to="contact"
             smooth={true}
             duration={0}

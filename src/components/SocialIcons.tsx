@@ -48,7 +48,7 @@ function SocialIcons() {
       </div>
       <div className="p-3 text-center">
         <a href="/Cristobal_Trinidad_Resume.pdf" target="_blank">
-          <button type="button" className="btn btn-outline-dark" style={{ color: "#332941" }}>Resume</button>
+          <button type="button" className="btn btn-outline-secondary" style={{ color: "#332941" }}>Resume</button>
         </a>
         
       </div>

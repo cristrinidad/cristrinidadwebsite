@@ -5,12 +5,13 @@
 
 /* Style of Nav Buttons */
 .nav {
-  background-color:#E9762B;
+  background-color:#4A4947;
 }
 
 .nav-link {
     text-decoration: none;
     position: relative;
+    color: #F1F0E9;
   }
   
 .nav-link:hover {
@@ -45,6 +46,6 @@
   }
 
 .footer {
-    background-color: #E9762B;
+    background-color: #F1F0E9;
   }
 
